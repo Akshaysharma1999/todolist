@@ -1,0 +1,21 @@
+li .done span{
+text-decoration: line-through;
+}
+h1{
+    color: aliceblue;
+    
+
+}
+h2{
+    color: aliceblue;
+    
+
+
+}
+.newcss{
+    /* background-color: 	#8000ff; */
+    /* background-image: linear-gradient(to right, #fc00ff, #6a8cff, #00b8ff, #00cfff, #00dbde); */
+    /* background-image: linear-gradient(to right, #f2709c, #fa7790, #fe7f84, #ff897a, #ff9472); */
+    font-family: 'Lucida Console', Monaco, monospace;
+    background-image: linear-gradient(to right, #8a2387, #a21e81, #b71d7a, #ca2170, #d92c66, #e2355d, #e93f54, #ef4b4b, #f25442, #f35d38, #f3672d, #f27121);
+}
